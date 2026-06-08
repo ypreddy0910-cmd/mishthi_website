@@ -1,0 +1,85 @@
+{
+  "site": {
+    "logo": "MISHTHI"
+  },
+
+  "hero": {
+    "title": "Building High-Performance Flutter Apps for Modern Businesses",
+    "description": "We help startups, entrepreneurs, and businesses transform ideas into beautiful, scalable, and cross-platform Flutter applications.",
+    "button1": "Start Your Project",
+    "button2": "Our Services"
+  },
+
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Professional Flutter development services designed to accelerate your digital growth.",
+
+    "items": [
+      {
+        "icon": "📱",
+        "title": "Flutter App Development",
+        "description": "Custom Android and iOS applications built using a single Flutter codebase."
+      },
+      {
+        "icon": "💻",
+        "title": "Cross-Platform Solutions",
+        "description": "Develop mobile, web, and desktop applications faster with Flutter technology."
+      },
+      {
+        "icon": "☁️",
+        "title": "Firebase Integration",
+        "description": "Authentication, databases, notifications, analytics, and cloud services integration."
+      }
+    ]
+  },
+
+  "about": {
+    "title": "Why Businesses Choose MISHTHI",
+    "paragraph1": "We specialize in Flutter app development and help businesses launch high-quality mobile applications with modern design and exceptional performance.",
+    "paragraph2": "From MVP development to enterprise applications, we deliver scalable, maintainable, and user-friendly solutions tailored to business requirements.",
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&w=1000&q=80"
+  },
+
+  "stats": [
+    {
+      "number": "50+",
+      "label": "Apps Delivered"
+    },
+    {
+      "number": "98%",
+      "label": "Client Satisfaction"
+    },
+    {
+      "number": "25+",
+      "label": "Global Clients"
+    },
+    {
+      "number": "5+",
+      "label": "Years Experience"
+    }
+  ],
+
+  "testimonials": [
+    {
+      "name": "Startup Founder",
+      "message": "MISHTHI transformed our idea into a professional Flutter application and delivered beyond expectations."
+    },
+    {
+      "name": "Business Owner",
+      "message": "Excellent communication, clean code, and a highly reliable Flutter development partner."
+    },
+    {
+      "name": "Agency Client",
+      "message": "Outstanding mobile app development expertise with fast delivery and great support."
+    }
+  ],
+
+  "contact": {
+    "title": "Let's Build Your Next Flutter App",
+    "description": "Ready to launch your mobile application? Contact us today and let's discuss your project requirements."
+  },
+
+  "footer": {
+    "text": "© 2026 MISHTHI Flutter App Development Studio. All Rights Reserved."
+  }
+}
